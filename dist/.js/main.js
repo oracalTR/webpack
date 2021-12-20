@@ -1,1 +1,0 @@
-(()=>{"use strict";console.log("One"),console.log("Проверка devServer"),console.log("Two"),console.log("Проверка работы")})();
